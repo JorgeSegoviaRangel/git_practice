@@ -22,6 +22,7 @@
 
 - Quinn: rocky road
 - Minh: strawberry cheesecake
+	-Such a good flavor -Christian Radman
 - Kapil: choco chip
 - Walt: chocolate chip cookie dough "Why are you copying me?" "I like this too!"
 - Christian R: homemade vanilla
@@ -42,6 +43,7 @@
 - Quinn: soccer
 - Minh: naginata
 - Kapil: table tennis ??
+	-W sport -Christian R
 - Walt: american football
 - Christian R: idk bowling?
 - Emmanuel: Soccer
