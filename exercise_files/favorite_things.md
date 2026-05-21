@@ -71,6 +71,7 @@
 - Minh: I don't have a favorite sports team : (
 - Kapil: InterMiami
 - Walt: Buffalo Bills
+- Emmanuel: Chelsea/Real Madrid
 
 ## Favorite game
 
