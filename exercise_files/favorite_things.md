@@ -43,6 +43,7 @@
 ## Favorite sports team
 
 - Quinn: Alabama Crimson Tide
+- Kapil: InterMiami
 
 ## Favorite game
 
