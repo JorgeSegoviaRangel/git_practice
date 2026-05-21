@@ -101,4 +101,5 @@
 * Walt: Resident Evil 4
 * Christian R: Deltarune
 * Emmanuel:Don't have one.
+* Dylan: Wuthering Waves
 
