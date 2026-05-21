@@ -56,6 +56,7 @@
 - Minh: The Crane Wives
 - Kapil: Rammestein
 - Walt: Queens of the Stone Age
+- Christian R: Will Wood and the Tapeworms
 
 ## Favorite movie
 
