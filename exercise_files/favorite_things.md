@@ -19,7 +19,7 @@
 - Quinn: rocky road
 - Minh: strawberry cheesecake
 - Kapil: choco chip
-- Walt: chocolate chip cookie dough "Why are you copying me?"
+- Walt: chocolate chip cookie dough "Why are you copying me?" "I like this too!"
 
 ## Favorite season
 
