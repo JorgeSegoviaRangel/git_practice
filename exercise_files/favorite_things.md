@@ -26,6 +26,7 @@
 - Quinn: summer
 - Minh: spring
 - Kapil: fall
+    - What a terrible season -Walt
 - Walt: fall
 
 ## Favorite sport
@@ -40,6 +41,7 @@
 - Quinn: geography
 - Minh: math
 - Kapil: ocean science
+    - The ocean is pretty cool -Walt
 - Walt: history
 
 ## Favorite band
