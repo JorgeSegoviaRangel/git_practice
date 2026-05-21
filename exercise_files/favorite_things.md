@@ -31,6 +31,7 @@
 - Kapil: fall
   - What a terrible season -Walt
 - Walt: fall
+- Emmanuel: Summer/Fall
 
 ## Favorite sport
 
