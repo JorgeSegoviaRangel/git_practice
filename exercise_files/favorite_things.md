@@ -91,6 +91,7 @@
 * Walt: Buffalo Bills
 * Christian R: not a sportsballer
 * Emmanuel: Chelsea/Real Madrid
+* Dylan: I don't have a favorite
 
 ## Favorite game
 
