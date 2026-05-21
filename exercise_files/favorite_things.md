@@ -6,6 +6,7 @@
 - Minh: no favorite candy
 - Kapil: Alpenliebe Lolipop
 - Walt: Twix "Snickers are better"
+- Emmanuel: Don't have a favorite
 
 ## Favorite color
 
@@ -26,7 +27,7 @@
 - Quinn: summer
 - Minh: spring
 - Kapil: fall
-    - What a terrible season -Walt
+  - What a terrible season -Walt
 - Walt: fall
 
 ## Favorite sport
@@ -41,7 +42,7 @@
 - Quinn: geography
 - Minh: math
 - Kapil: ocean science
-    - The ocean is pretty cool -Walt
+  - The ocean is pretty cool -Walt
 - Walt: history
 
 ## Favorite band
