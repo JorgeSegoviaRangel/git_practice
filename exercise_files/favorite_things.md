@@ -50,6 +50,7 @@
 * Walt: american football
 * Christian R: idk bowling?
 * Emmanuel: Soccer
+* Dylan: Soccer
 
 ## Favorite subject
 
