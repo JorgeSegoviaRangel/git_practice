@@ -39,6 +39,7 @@
 - Minh: naginata
 - Kapil: table tennis ??
 - Walt: american football
+- Emmanuel: Soccer
 
 ## Favorite subject
 
