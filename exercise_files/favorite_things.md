@@ -48,3 +48,4 @@
 ## Favorite game
 
 - Quinn: Stardew Valley
+- Walt: Resident Evil 4
