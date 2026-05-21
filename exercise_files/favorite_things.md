@@ -18,6 +18,7 @@
 ## Favorite season
 
 - Quinn: summer
+- Minh: spring
 
 ## Favorite sport
 
