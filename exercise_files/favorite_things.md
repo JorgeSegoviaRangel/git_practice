@@ -7,6 +7,8 @@
 - Kapil: Alpenliebe Lolipop
 - Walt: Twix "Snickers are better"
 - Christian: This guy Walt gets it
+- Christian R: Coffee Crisp
+- Emmanuel: Don't have a favorite
 
 ## Favorite color
 
@@ -15,6 +17,8 @@
 - Kapil: blue
 - Walt: green
 - Christian: turquoise
+- Christian R: blue
+- Emmanuel: Yellow
 
 ## Favorite ice cream
 
@@ -23,15 +27,19 @@
 - Kapil: choco chip
 - Walt: chocolate chip cookie dough "Why are you copying me?" "I like this too!"
 - Christian: strawberry
+- Christian R: homemade vanilla
+- Emmanuel: banana icecream
 
 ## Favorite season
 
 - Quinn: summer
 - Minh: spring
 - Kapil: fall
-    - What a terrible season -Walt
+  - What a terrible season -Walt
 - Walt: fall
 - Christian: spring
+- Christian R: winter
+- Emmanuel: Summer/Fall
 
 ## Favorite sport
 
@@ -40,15 +48,19 @@
 - Kapil: table tennis ??
 - Walt: american football
 - Christian: basketball
+- Christian R: idk bowling?
+- Emmanuel: Soccer
 
 ## Favorite subject
 
 - Quinn: geography
 - Minh: math
 - Kapil: ocean science
-    - The ocean is pretty cool -Walt
+  - The ocean is pretty cool -Walt
 - Walt: history
 - Christian: science
+- Christian R: art
+- Emmanuel: biology
 
 ## Favorite band
 
@@ -57,6 +69,8 @@
 - Kapil: Rammestein
 - Walt: Queens of the Stone Age
 - Christian: The Jackson 5
+- Christian R: Will Wood and the Tapeworms
+- Emmanuel: Don't have one
 
 ## Favorite movie
 
@@ -64,6 +78,8 @@
 - Kapil: Shutter Island
 - Walt: Good Will Hunting
 - Christian Lee: Home Alone
+- Christian R: Coraline
+- Emmanuel: Book of Eli/ Equalizer
 
 ## Favorite sports team
 
@@ -72,6 +88,8 @@
 - Kapil: InterMiami
 - Walt: Buffalo Bills
 - Christian: Atlanta Hawks
+- Christian R: not a sportsballer
+- Emmanuel: Chelsea/Real Madrid
 
 ## Favorite game
 
@@ -80,3 +98,5 @@
 - Kapil: Mobile Legends: Bang Bang
 - Walt: Resident Evil 4
 - Christian: Mass Effect
+- Christian R: Deltarune
+- Emmanuel:Don't have one.
