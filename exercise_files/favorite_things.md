@@ -28,6 +28,7 @@
 ## Favorite subject
 
 - Quinn: geography
+- Walt: history
 
 ## Favorite band
 
