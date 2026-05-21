@@ -81,6 +81,7 @@
 * Walt: Good Will Hunting
 * Christian R: Coraline
 * Emmanuel: Book of Eli/ Equalizer
+* Dylan: Megamind
 
 ## Favorite sports team
 
