@@ -39,6 +39,7 @@
 - Minh: naginata
 - Kapil: table tennis ??
 - Walt: american football
+- Christian R: idk bowling?
 
 ## Favorite subject
 
