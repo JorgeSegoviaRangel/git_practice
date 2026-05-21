@@ -38,6 +38,7 @@
 ## Favorite movie
 
 - Quinn: Mean Girls
+- Walt: Good Will Hunting
 
 ## Favorite sports team
 
