@@ -13,6 +13,7 @@
 ## Favorite ice cream
 
 - Quinn: rocky road
+- Walt: chocolate chip cookie dough
 
 ## Favorite season
 
