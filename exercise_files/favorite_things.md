@@ -71,6 +71,7 @@
 - Minh: I don't have a favorite sports team : (
 - Kapil: InterMiami
 - Walt: Buffalo Bills
+- Christian R: not a sportsballer
 
 ## Favorite game
 
