@@ -6,6 +6,7 @@
 - Minh: no favorite candy
 - Kapil: Alpenliebe Lolipop
 - Walt: Twix "Snickers are better"
+- Christian R: Coffee Crisp
 - Emmanuel: Don't have a favorite
 
 ## Favorite color
@@ -14,6 +15,7 @@
 - Minh: blue
 - Kapil: blue
 - Walt: green
+- Christian R: blue
 - Emmanuel: Yellow
 
 ## Favorite ice cream
@@ -22,6 +24,7 @@
 - Minh: strawberry cheesecake
 - Kapil: choco chip
 - Walt: chocolate chip cookie dough "Why are you copying me?" "I like this too!"
+- Christian R: homemade vanilla
 - Emmanuel: banana icecream
 
 ## Favorite season
@@ -31,6 +34,7 @@
 - Kapil: fall
   - What a terrible season -Walt
 - Walt: fall
+- Christian R: winter
 - Emmanuel: Summer/Fall
 
 ## Favorite sport
@@ -39,6 +43,7 @@
 - Minh: naginata
 - Kapil: table tennis ??
 - Walt: american football
+- Christian R: idk bowling?
 - Emmanuel: Soccer
 
 ## Favorite subject
@@ -48,6 +53,7 @@
 - Kapil: ocean science
   - The ocean is pretty cool -Walt
 - Walt: history
+- Christian R: art
 - Emmanuel: biology
 
 ## Favorite band
@@ -56,6 +62,7 @@
 - Minh: The Crane Wives
 - Kapil: Rammestein
 - Walt: Queens of the Stone Age
+- Christian R: Will Wood and the Tapeworms
 - Emmanuel: Don't have one
 
 ## Favorite movie
@@ -63,6 +70,7 @@
 - Quinn: Mean Girls
 - Kapil: Shutter Island
 - Walt: Good Will Hunting
+- Christian R: Coraline
 - Emmanuel: Book of Eli/ Equalizer
 
 ## Favorite sports team
@@ -71,6 +79,7 @@
 - Minh: I don't have a favorite sports team : (
 - Kapil: InterMiami
 - Walt: Buffalo Bills
+- Christian R: not a sportsballer
 - Emmanuel: Chelsea/Real Madrid
 
 ## Favorite game
@@ -79,4 +88,5 @@
 - Minh: Pikmin Bloom
 - Kapil: Mobile Legends: Bang Bang
 - Walt: Resident Evil 4
+- Christian R: Deltarune
 - Emmanuel:Don't have one.
