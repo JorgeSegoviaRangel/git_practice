@@ -6,6 +6,7 @@
 - Minh: no favorite candy
 - Kapil: Alpenliebe Lolipop
 - Walt: Twix "Snickers are better"
+- Christian R: Coffee Crisp
 
 ## Favorite color
 
