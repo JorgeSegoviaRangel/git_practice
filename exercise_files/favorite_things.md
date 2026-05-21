@@ -22,6 +22,7 @@
 - Minh: strawberry cheesecake
 - Kapil: choco chip
 - Walt: chocolate chip cookie dough "Why are you copying me?" "I like this too!"
+- Emmanuel: banana icecream
 
 ## Favorite season
 
