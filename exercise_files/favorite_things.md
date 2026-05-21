@@ -23,6 +23,7 @@
 ## Favorite sport
 
 - Quinn: soccer
+- Minh: naginata
 
 ## Favorite subject
 
