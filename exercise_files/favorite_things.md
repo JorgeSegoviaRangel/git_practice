@@ -47,3 +47,4 @@
 ## Favorite game
 
 - Quinn: Stardew Valley
+- Minh: Pikmin Bloom
