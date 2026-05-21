@@ -6,6 +6,7 @@
 - Minh: no favorite candy
 - Kapil: Alpenliebe Lolipop
 - Walt: Twix "Snickers are better"
+- Christian: This guy Walt gets it
 
 ## Favorite color
 
@@ -13,6 +14,7 @@
 - Minh: blue
 - Kapil: blue
 - Walt: green
+- Christian: turquoise
 
 ## Favorite ice cream
 
@@ -20,6 +22,7 @@
 - Minh: strawberry cheesecake
 - Kapil: choco chip
 - Walt: chocolate chip cookie dough "Why are you copying me?" "I like this too!"
+- Christian: strawberry
 
 ## Favorite season
 
@@ -28,6 +31,7 @@
 - Kapil: fall
     - What a terrible season -Walt
 - Walt: fall
+- Christian: spring
 
 ## Favorite sport
 
@@ -35,6 +39,7 @@
 - Minh: naginata
 - Kapil: table tennis ??
 - Walt: american football
+- Christian: basketball
 
 ## Favorite subject
 
@@ -43,6 +48,7 @@
 - Kapil: ocean science
     - The ocean is pretty cool -Walt
 - Walt: history
+- Christian: science
 
 ## Favorite band
 
@@ -50,12 +56,14 @@
 - Minh: The Crane Wives
 - Kapil: Rammestein
 - Walt: Queens of the Stone Age
+- Christian: The Jackson 5
 
 ## Favorite movie
 
 - Quinn: Mean Girls
 - Kapil: Shutter Island
 - Walt: Good Will Hunting
+- Christian Lee: Home Alone
 
 ## Favorite sports team
 
@@ -63,6 +71,7 @@
 - Minh: I don't have a favorite sports team : (
 - Kapil: InterMiami
 - Walt: Buffalo Bills
+- Christian: Atlanta Hawks
 
 ## Favorite game
 
@@ -70,3 +79,4 @@
 - Minh: Pikmin Bloom
 - Kapil: Mobile Legends: Bang Bang
 - Walt: Resident Evil 4
+- Christian: Mass Effect
