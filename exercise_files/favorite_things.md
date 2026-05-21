@@ -33,6 +33,7 @@
 ## Favorite band
 
 - Quinn: MJ Lenderman
+- Walt: Queens of the Stone Age
 
 ## Favorite movie
 
