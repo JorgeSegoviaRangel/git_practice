@@ -62,6 +62,7 @@
 * Walt: history
 * Christian R: art
 * Emmanuel: biology
+* Dylan: Film
 
 ## Favorite band
 
