@@ -40,6 +40,7 @@
 * Walt: fall
 * Christian R: winter
 * Emmanuel: Summer/Fall
+* Dylan: Winter
 
 ## Favorite sport
 
