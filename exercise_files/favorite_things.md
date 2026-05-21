@@ -4,9 +4,11 @@
 
 - Quinn: nerds gummy clusters
 - Kapil: Alpenliebe Lolipop
+
 ## Favorite color
 
 - Quinn: green
+- Kapil: blue
 
 ## Favorite ice cream
 
