@@ -8,6 +8,7 @@
 ## Favorite color
 
 - Quinn: green
+- Walt: green
 
 ## Favorite ice cream
 
