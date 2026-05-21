@@ -3,6 +3,7 @@
 ## Favorite candy
 
 - Quinn: nerds gummy clusters
+- Minh: no favorite candy
 
 ## Favorite color
 
