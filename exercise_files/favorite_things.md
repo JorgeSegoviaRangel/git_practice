@@ -31,6 +31,7 @@
 - Kapil: fall
     - What a terrible season -Walt
 - Walt: fall
+- Christian R: winter
 
 ## Favorite sport
 
