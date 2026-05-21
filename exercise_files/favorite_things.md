@@ -14,6 +14,7 @@
 - Minh: blue
 - Kapil: blue
 - Walt: green
+- Christian R: blue
 
 ## Favorite ice cream
 
