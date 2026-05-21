@@ -42,6 +42,7 @@
 ## Favorite sports team
 
 - Quinn: Alabama Crimson Tide
+- Minh: I don't have a favorite sports team : (
 
 ## Favorite game
 
