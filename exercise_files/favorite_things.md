@@ -33,6 +33,7 @@
 ## Favorite band
 
 - Quinn: MJ Lenderman
+- Minh: The Crane Wives
 
 ## Favorite movie
 
