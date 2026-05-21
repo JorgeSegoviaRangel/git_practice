@@ -63,6 +63,7 @@
 - Quinn: Mean Girls
 - Kapil: Shutter Island
 - Walt: Good Will Hunting
+- Christian R: Coraline
 
 ## Favorite sports team
 
