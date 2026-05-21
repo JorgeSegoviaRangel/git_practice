@@ -9,6 +9,7 @@
 - Christian: This guy Walt gets it
 - Christian R: Coffee Crisp
 - Emmanuel: Don't have a favorite
+- Jorge: Dark Chocolat
 
 ## Favorite color
 
@@ -19,6 +20,7 @@
 - Christian: turquoise
 - Christian R: blue
 - Emmanuel: Yellow
+- Jorge: green
 
 ## Favorite ice cream
 
@@ -29,6 +31,7 @@
 - Christian: strawberry
 - Christian R: homemade vanilla
 - Emmanuel: banana icecream
+- Jorge: Brownie
 
 ## Favorite season
 
@@ -40,6 +43,7 @@
 - Christian: spring
 - Christian R: winter
 - Emmanuel: Summer/Fall
+- Jorge: spring
 
 ## Favorite sport
 
@@ -50,6 +54,7 @@
 - Christian: basketball
 - Christian R: idk bowling?
 - Emmanuel: Soccer
+- Jorge: Soccer
 
 ## Favorite subject
 
@@ -61,6 +66,7 @@
 - Christian: science
 - Christian R: art
 - Emmanuel: biology
+- Machine Learning
 
 ## Favorite band
 
@@ -71,6 +77,7 @@
 - Christian: The Jackson 5
 - Christian R: Will Wood and the Tapeworms
 - Emmanuel: Don't have one
+- Jorge: AC/DC
 
 ## Favorite movie
 
@@ -80,6 +87,7 @@
 - Christian Lee: Home Alone
 - Christian R: Coraline
 - Emmanuel: Book of Eli/ Equalizer
+- Jorge: Back to the Future 3
 
 ## Favorite sports team
 
@@ -90,6 +98,7 @@
 - Christian: Atlanta Hawks
 - Christian R: not a sportsballer
 - Emmanuel: Chelsea/Real Madrid
+- Jorge: Tigres UANL
 
 ## Favorite game
 
@@ -100,3 +109,4 @@
 - Christian: Mass Effect
 - Christian R: Deltarune
 - Emmanuel:Don't have one.
+- Jorge: Halo 3
