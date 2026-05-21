@@ -28,6 +28,7 @@
 * Walt: chocolate chip cookie dough "Why are you copying me?" "I like this too!"
 * Christian R: homemade vanilla
 * Emmanuel: banana icecream
+* Dylan: Neopolitan
 
 ## Favorite season
 
