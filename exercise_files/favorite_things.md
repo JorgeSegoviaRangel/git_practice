@@ -14,6 +14,7 @@
 - Minh: blue
 - Kapil: blue
 - Walt: green
+- Emmanuel: Yellow
 
 ## Favorite ice cream
 
