@@ -13,6 +13,7 @@
 ## Favorite ice cream
 
 - Quinn: rocky road
+- Kapil: choco chip
 
 ## Favorite season
 
