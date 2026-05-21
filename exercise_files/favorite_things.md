@@ -28,6 +28,7 @@
 ## Favorite subject
 
 - Quinn: geography
+- Minh: math
 
 ## Favorite band
 
