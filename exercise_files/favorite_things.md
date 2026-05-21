@@ -56,6 +56,7 @@
 - Minh: The Crane Wives
 - Kapil: Rammestein
 - Walt: Queens of the Stone Age
+- Emmanuel: Don't have one
 
 ## Favorite movie
 
