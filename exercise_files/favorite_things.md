@@ -8,6 +8,7 @@
 ## Favorite color
 
 - Quinn: green
+- Minh: blue
 
 ## Favorite ice cream
 
