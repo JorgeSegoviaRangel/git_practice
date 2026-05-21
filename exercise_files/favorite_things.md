@@ -22,6 +22,7 @@
 - Minh: strawberry cheesecake
 - Kapil: choco chip
 - Walt: chocolate chip cookie dough "Why are you copying me?" "I like this too!"
+- Christian R: homemade vanilla
 
 ## Favorite season
 
