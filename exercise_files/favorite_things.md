@@ -48,6 +48,7 @@
 - Kapil: ocean science
   - The ocean is pretty cool -Walt
 - Walt: history
+- Emmanuel: biology
 
 ## Favorite band
 
