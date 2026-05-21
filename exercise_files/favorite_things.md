@@ -33,6 +33,7 @@
 ## Favorite band
 
 - Quinn: MJ Lenderman
+- Kapil: Rammestein
 
 ## Favorite movie
 
