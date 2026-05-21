@@ -18,6 +18,7 @@
 * Walt: green
 * Christian R: blue
 * Emmanuel: Yellow
+* Dylan: Purple
 
 ## Favorite ice cream
 
