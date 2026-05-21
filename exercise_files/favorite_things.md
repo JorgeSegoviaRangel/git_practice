@@ -38,6 +38,7 @@
 ## Favorite movie
 
 - Quinn: Mean Girls
+- Kapil: Shutter Island
 
 ## Favorite sports team
 
