@@ -48,6 +48,7 @@
 - Kapil: ocean science
     - The ocean is pretty cool -Walt
 - Walt: history
+- Christian R: art
 
 ## Favorite band
 
