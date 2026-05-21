@@ -23,6 +23,7 @@
 ## Favorite sport
 
 - Quinn: soccer
+- Walt: american football
 
 ## Favorite subject
 
