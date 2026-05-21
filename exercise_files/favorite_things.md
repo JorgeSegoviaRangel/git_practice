@@ -13,6 +13,7 @@
 ## Favorite ice cream
 
 - Quinn: rocky road
+- Minh: strawberry cheesecake
 
 ## Favorite season
 
