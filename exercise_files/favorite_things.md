@@ -43,6 +43,7 @@
 ## Favorite sports team
 
 - Quinn: Alabama Crimson Tide
+- Walt: Buffalo Bills
 
 ## Favorite game
 
