@@ -28,6 +28,7 @@
 ## Favorite subject
 
 - Quinn: geography
+- Kapil: ocean science
 
 ## Favorite band
 
