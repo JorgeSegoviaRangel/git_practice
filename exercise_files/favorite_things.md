@@ -18,6 +18,7 @@
 ## Favorite season
 
 - Quinn: summer
+- Walt: fall
 
 ## Favorite sport
 
