@@ -18,6 +18,7 @@
 ## Favorite season
 
 - Quinn: summer
+- Kapil: fall
 
 ## Favorite sport
 
