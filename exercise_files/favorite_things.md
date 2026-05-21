@@ -3,7 +3,7 @@
 ## Favorite candy
 
 - Quinn: nerds gummy clusters
-
+- Kapil: Alpenliebe Lolipop
 ## Favorite color
 
 - Quinn: green
