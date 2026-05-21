@@ -48,3 +48,4 @@
 ## Favorite game
 
 - Quinn: Stardew Valley
+- Kapil: Mobile Legends: Bang Bang
