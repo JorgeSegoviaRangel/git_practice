@@ -3,6 +3,7 @@
 ## Favorite candy
 
 - Quinn: nerds gummy clusters
+- Walt: Twix
 
 ## Favorite color
 
