@@ -63,6 +63,7 @@
 - Quinn: Mean Girls
 - Kapil: Shutter Island
 - Walt: Good Will Hunting
+- Emmanuel: Book of Eli/ Equalizer
 
 ## Favorite sports team
 
