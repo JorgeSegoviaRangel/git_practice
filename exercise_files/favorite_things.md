@@ -23,6 +23,7 @@
 ## Favorite sport
 
 - Quinn: soccer
+- Kapil: table tennis ??
 
 ## Favorite subject
 
