@@ -4,7 +4,7 @@
 
 - Quinn: nerds gummy clusters
 - Kapil: Alpenliebe Lolipop
-- Walt: Twix
+- Walt: Twix "Snickers are better"
 
 ## Favorite color
 
@@ -16,7 +16,7 @@
 
 - Quinn: rocky road
 - Kapil: choco chip
-- Walt: chocolate chip cookie dough
+- Walt: chocolate chip cookie dough "Why are you copying me?"
 
 ## Favorite season
 
